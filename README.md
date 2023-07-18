@@ -1,7 +1,8 @@
 # Tourism-Management-System
 This online tourism management system is programmed using php and MySQL as the database.
 
-Features of the Project
+Features of the Project:
+
 • Show Dashboard
 • User Registration
 • Manage Inquiries
